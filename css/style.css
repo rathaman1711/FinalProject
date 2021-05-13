@@ -91,8 +91,9 @@ header.sticky{
 .home{
     background:url(../images/background123.png) no-repeat;
     background-size:cover;
-    background-position:top;
+    background-position:center;
     background-attachment: fixed;
+    background-position-y: 26%;
 }
 
 .home .content{
